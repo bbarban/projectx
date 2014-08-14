@@ -1,6 +1,6 @@
 <?php
-	$my_array_b = array('black', 'orange', 'yellow', 'white', 'red');
+	$my_array_x = array('black', 'orange', 'yellow', 'white', 'red');
 	
-	foreach($my_arrady_y as $item) {
+	foreach($my_arrady_x as $item) {
 		print $item . '</ br>a b';
 	}
